@@ -1,11 +1,11 @@
 <!-- Animated Hero Wave Banner matching Berkin62232001 profile style -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:0ea5e9&height=210&section=header&text=Kozmos%203B%20Ultra&fontSize=56&fontColor=f8fafc&fontAlignY=38&desc=Real-Time%20WebGL2%20%26%20GLSL%20Astrophysics%20Universe%20Simulator&descAlignY=62&descSize=18&animation=fadeIn" alt="Kozmos 3B Ultra Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:0ea5e9&height=210&section=header&text=Kozmos%203B%20Ultra&fontSize=56&fontColor=f8fafc&fontAlignY=38&desc=Real-Time%20WebGL2%20%7C%20GLSL%20Astrophysics%20Universe%20Simulator&descAlignY=62&descSize=18&animation=fadeIn" alt="Kozmos 3B Ultra Banner" width="100%" />
 </p>
 
 <!-- Animated Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Real-Time+GLSL+Black+Hole+Raymarching+%26+Doppler+Beaming;6-Stage+Tidal+Disruption+(TDE)+%26+Milkomeda+GPU+Lab;45+Celestial+Bodies+%E2%80%A2+40+Custom+Shaders+%E2%80%A2+16-bit+HDR;Single-File+Zero-Build+WebGL2+Engine+at+60+FPS" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Real-Time+GLSL+Black+Hole+Raymarching+%7C+Doppler+Beaming;6-Stage+Tidal+Disruption+(TDE)+%7C+Milkomeda+GPU+Lab;45+Celestial+Bodies+%E2%80%A2+40+Custom+Shaders+%E2%80%A2+16-bit+HDR;Single-File+Zero-Build+WebGL2+Engine+at+60+FPS" alt="Typing Animation" />
 </p>
 
 <!-- Interactive Action & Tech Stack Badges -->
