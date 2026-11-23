@@ -1,0 +1,22 @@
+# macOS & OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & dependencies
+*.log
+node_modules/
+dist/
